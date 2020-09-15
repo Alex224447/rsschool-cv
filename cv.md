@@ -1,4 +1,5 @@
 ## Alexandra Gavrilova
+
 #### _Contacts: +375-29-346-51-80, alex.ggrlv.2020@gmail.com_
 ### __My goal is to gain knowledge to become a successful Front-end developer.__
 #### Work experience: I have been working as an account manager for the last 18 months.
