@@ -1,0 +1,22 @@
+#photo {
+	width: 200px;
+	height: 200px;
+	border: 10px solid #65443b;
+}
+body {
+	max-width: 1024px;
+	text-align: center;
+	margin: auto;
+}
+h1 {
+	font: bold 30px Verdana, Geneva, sans-serif;
+}
+.contacts {
+	font: italic bold 15px Verdana, Geneva, sans-serif;
+}
+.goal {
+	font: bold 20px Verdana, Geneva, sans-serif;
+}
+.general {
+	font: 15px Verdana, Geneva, sans-serif;
+}
